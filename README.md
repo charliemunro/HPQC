@@ -33,10 +33,3 @@ time python3 file_io.py
 
 ## Conclusion
 For file-intensive applications, **C is significantly faster**. Python remains a great choice for ease of use but sacrifices performance.
-
-## Submission Instructions
-- Clone this repository:
-  ```bash
-  git clone <your-repo-link>
-  ```
-- Follow the instructions above to run the scripts and verify the results.
