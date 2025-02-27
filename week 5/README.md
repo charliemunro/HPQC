@@ -65,5 +65,3 @@ python3 animate_line_file.py data/string_wave_mpi_4800000_np4.csv
 ## Brief Discussion
 
 Overall, these experiments show that while MPI introduces overhead (particularly at smaller problem sizes), it can offer performance gains at larger scales—though results vary with process counts and system conditions. Continued experimentation with larger workloads and repeated runs will help identify more consistent scaling behavior.
-```
-
