@@ -24,7 +24,7 @@ This week's assignment focused on implementing and analyzing parallel computing 
 ---
 
 ## **Benchmark Results**
-We tested `vector_serial.c` vs `vector_mpi.c` for `N = 1,000,000` elements, measuring execution times:
+Tested `vector_serial.c` vs `vector_mpi.c` for `N = 1,000,000` elements, measuring execution times:
 
 | MPI Processes | Execution Time (seconds) |
 |--------------|-------------------------|
