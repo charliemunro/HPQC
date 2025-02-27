@@ -1,4 +1,4 @@
-Week 1: Accessing HPC Resources and GitHub Setup
+**Week 1: Accessing HPC Resources and GitHub Setup
 
 Discussion
 
@@ -6,7 +6,7 @@ Overview
 
 This week focused on setting up access to the HPC cluster (Cheetah) and configuring GitHub for version control. These steps are essential for high-performance computing and collaborative development.
 
-Accessing HPC Resources
+*Accessing HPC Resources
 
 1. Connecting to the HPC Cluster
 
@@ -20,7 +20,7 @@ Accessing the cluster enables the execution of computational workloads from any 
 
 SSH provides secure access to shared computing resources.
 
-GitHub Setup
+***GitHub Setup
 
 1. Creating and Cloning a Repository
 
